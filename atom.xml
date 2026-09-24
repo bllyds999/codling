@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>小鲤鱼</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://codling.top/</id>
+  <link href="https://codling.top/" rel="alternate"/>
+  <link href="https://codling.top/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 小鲤鱼</rights>
+  <subtitle>励志做条对社会有用的鱼</subtitle>
+  <title>小鲤鱼笔记</title>
+  <updated>2026-09-24T18:01:24.195Z</updated>
+  <entry>
+    <author>
+      <name>小鲤鱼</name>
+    </author>
+    <category term="中秋节" scheme="https://codling.top/tags/%E4%B8%AD%E7%A7%8B%E8%8A%82/"/>
+    <content>
+      <![CDATA[<p><em>床前明月光，疑是地霜霜。</em></p><span id="more"></span><p>今年中秋节和以前的不一样，以前还在上学的时候特别喜欢中秋节。自从去年彻底从技校退学以后，我每天都是放假的。技校的垃圾环境真的不是人活的，尤其是当一个人不小心上的技校。中秋节有月饼，但网络上很多人都不喜欢吃月饼，可能是因为他们买的不是正宗广式月饼？反正我记得之前吃的金腿五仁和蛋黄莲蓉都挺好的，尤其是咬下去有一股油酥味，味道是真的令人回味。唯一的缺点反而不是硬，因为广式五仁月饼就不是往硬了做的；广东这个垃圾气候真的是令人烦躁，不喝水光吃月饼马上给你吃出病来。你可以完全排除这些食品厂商们的环境，但你绝对不能排除广东的垃圾湿热气候。这种感觉真的是让人觉得恶心，我真的不想再去医院了，都去好几次了。</p>]]>
+    </content>
+    <id>https://codling.top/archives/%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E4%B8%AD%E7%A7%8B%E8%8A%82/</id>
+    <link href="https://codling.top/archives/%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E4%B8%AD%E7%A7%8B%E8%8A%82/"/>
+    <published>2026-09-24T17:56:16.000Z</published>
+    <summary>
+      <![CDATA[<p><em>床前明月光，疑是地霜霜。</em></p>]]>
+    </summary>
+    <title>又是一年中秋节</title>
+    <updated>2026-09-24T18:01:24.195Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小鲤鱼</name>
+    </author>
+    <category term="网站主题" scheme="https://codling.top/tags/%E7%BD%91%E7%AB%99%E4%B8%BB%E9%A2%98/"/>
+    <content>
+      <![CDATA[<p><em>为了有个新的开始，我基于 NexT 写了一套网站主题。</em></p><span id="more"></span><p>最开始我想的是基于 Paper 主题构建一套新的主题，因为 Paper 主题主打的就是极简。但实践过程中遇到了很多坑，最主要的就是 Paper 主题的作者貌似完全对自己的主题不负责，就像是个大学生的毕业设计。虽然说我没有读过大学，但我记得以前上学的时候自己做完黑板报以后就再也没看过了。后来 ZenMind 的作者 Len 对 Paper 进行了分叉，做了 ZenMind 主题。虽然它也是一个极简风主题，但是却与之前的 Paper 哲学完全不同。你完全可以看到，它是一张真正的 Paper，你可以在上面写字画画。虽然我曾经建站的时候用过 ZenMind，但体感上依然像是不能用的主题，可能这就是为什么 ZenMind 的作者自己都不用它，因为 Len 早就有了自己的博客网站。对于我来说，最能同时代表白纸和博客的，应该是 NexT 主题。它可以做到使用 <code>&lt;!-- more --&gt;</code> 生成符合自己预期的文章首页描述，而且团队整体开发上走的也是可读路线。所以我对其分叉，做了主题并进行维护。</p>]]>
+    </content>
+    <id>https://codling.top/archives/%E7%BD%91%E7%AB%99%E4%B8%BB%E9%A2%98%E7%9A%84%E8%AF%9E%E7%94%9F%E5%8E%86%E7%A8%8B/</id>
+    <link href="https://codling.top/archives/%E7%BD%91%E7%AB%99%E4%B8%BB%E9%A2%98%E7%9A%84%E8%AF%9E%E7%94%9F%E5%8E%86%E7%A8%8B/"/>
+    <published>2026-09-24T17:48:49.000Z</published>
+    <summary>
+      <![CDATA[<p><em>为了有个新的开始，我基于 NexT 写了一套网站主题。</em></p>]]>
+    </summary>
+    <title>网站主题的诞生历程</title>
+    <updated>2026-09-24T18:01:51.289Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小鲤鱼</name>
+    </author>
+    <category term="域名" scheme="https://codling.top/tags/%E5%9F%9F%E5%90%8D/"/>
+    <content>
+      <![CDATA[<p><em>最开始，我只是在 Namesilo 上购买了这个域名。</em></p><span id="more"></span><p>最主要是我当时在想，如果我不想在 <code>090909.top</code> 上发布文章的话，我还有一个别人都不认识我的赛博树洞。我可以安安静静地在这里写文章，也没什么熟人会来看到什么的。<code>.top</code> 域名很便宜，只需要 18 块钱就能写个一年时间博客，对比其它的高价格域名已经很良心了。以前有个朋友让我不要去买 <code>.top</code> 域名，说是这个公司以前都干了什么事之类的，害得我浪费时间向他解释了所有我在 Linux 折腾遇到过的“不属于你”案例。他大概的意思就是说，这个域名买了就不属于你了，但事实上我认为买域名本来就不是你自己的，你只是花钱租用了这段时间的所有权，又不是真的把 ICANN 的服务器买回家抱着，还谈什么属于不属于自己的。</p>]]>
+    </content>
+    <id>https://codling.top/archives/%E4%B8%8D%E6%83%B3%E6%B5%AA%E8%B4%B9%E9%97%B2%E7%BD%AE%E5%9F%9F%E5%90%8D/</id>
+    <link href="https://codling.top/archives/%E4%B8%8D%E6%83%B3%E6%B5%AA%E8%B4%B9%E9%97%B2%E7%BD%AE%E5%9F%9F%E5%90%8D/"/>
+    <published>2026-09-24T17:32:14.000Z</published>
+    <summary>
+      <![CDATA[<p><em>最开始，我只是在 Namesilo 上购买了这个域名。</em></p>]]>
+    </summary>
+    <title>不想浪费闲置域名</title>
+    <updated>2026-09-24T17:49:42.059Z</updated>
+  </entry>
+</feed>
